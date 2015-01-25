@@ -1,0 +1,2 @@
+J:\domes\AndroidGoogleAnimationDemo-master\app\build\intermediates\classes\debug
+J:\domes\AndroidGoogleAnimationDemo-master\app\build\intermediates\pre-dexed\debug\android-support-v13-268507d8f2ce7c1022f8d7409a884d3904f1266d.jar
